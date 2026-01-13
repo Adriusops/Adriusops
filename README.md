@@ -1,16 +1,15 @@
-## Hi there 👋
+# Adrien Mery-Costa
 
-<!--
-**Adriusops/Adriusops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer • Marseille 🇫🇷
 
-Here are some ideas to get you started:
+Currently: RSSI managing 400+ machines | Student: MSc Cloud & Cybersecurity @ Epitech  
+Looking for: DevOps apprenticeship / job (Sept 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Docker • Kubernetes • Terraform • GitHub Actions • AWS • Bash • Python
+
+## Projects
+- **[Nginx Log Analyser](https://github.com/Adriusops/Devops-Project3_Nginx_Log_Analyser)** – Log parsing & automation with Bash
+- **[CI/CD Pipeline](https://github.com/Adriusops/Devops-Project4_Github_Pages_Deployment)** – Automated deployment with GitHub Actions  
+
+[LinkedIn](https://linkedin.com/in/amery-costa) • [Email](mailto:merycosta.adrien@gmail.com)
