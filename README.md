@@ -6,7 +6,7 @@ Currently: RSSI managing 400+ machines | Student: MSc Cloud & Cybersecurity @ Ep
 Looking for: DevOps apprenticeship / job (Sept 2026)
 
 ## Stack
-Docker • Kubernetes • Terraform • GitHub Actions • AWS • Bash • Python
+Docker • Kubernetes • Terraform • GitHub Actions • AWS • Bash • Go
 
 ## Projects
 - **[Nginx Log Analyser](https://github.com/Adriusops/Devops-Project3_Nginx_Log_Analyser)** – Log parsing & automation with Bash
