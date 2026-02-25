@@ -10,6 +10,7 @@ Docker • Kubernetes • Terraform • GitHub Actions • AWS • Bash • Go
 
 ## Projects
 - **[Nginx Log Analyser](https://github.com/Adriusops/Devops-Project3_Nginx_Log_Analyser)** – Log parsing & automation with Bash
-- **[CI/CD Pipeline](https://github.com/Adriusops/Devops-Project4_Github_Pages_Deployment)** – Automated deployment with GitHub Actions  
+- **[CI/CD Pipeline](https://github.com/Adriusops/Devops-Project4_Github_Pages_Deployment)** – Automated deployment with GitHub Actions
+- Building : **[zentxt](https://github.com/Adriusops/zentxt)**
 
 [LinkedIn](https://linkedin.com/in/amery-costa) • [Email](mailto:merycosta.adrien@gmail.com)
