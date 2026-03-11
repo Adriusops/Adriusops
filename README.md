@@ -10,7 +10,6 @@ Docker • Kubernetes • Terraform • GitHub Actions • AWS • Bash • Go
 
 ## Projects
 - **[Nginx Log Analyser](https://github.com/Adriusops/Devops-Project3_Nginx_Log_Analyser)** – Log parsing & automation with Bash
-- **[CI/CD Pipeline](https://github.com/Adriusops/Devops-Project4_Github_Pages_Deployment)** – Automated deployment with GitHub Actions
-- Building : **[zentxt](https://github.com/Adriusops/zentxt)**
+- **[zentxt](https://github.com/Adriusops/zentxt)** - Text files versionning desktop app for non technical people (Go, Wails 3, CI/CD pipeline with GitHub Actions + landing page on AWS S3/CloudFront.)
 
 [LinkedIn](https://linkedin.com/in/amery-costa) • [Email](mailto:merycosta.adrien@gmail.com)
